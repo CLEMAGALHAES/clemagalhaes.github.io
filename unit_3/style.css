@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background: url("https://drive.google.com/open?id=0B1MRY1hRj3azZFlhQTRGVU1GZFE");
+  background-size: cover;
+  font-family: Helvetica;
+} 
+
+hr { 
+  width: 200px;
+}
+p{
+  font-size: 22px;
+}
