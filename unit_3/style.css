@@ -2,6 +2,8 @@ body {
   text-align: center;
   font-family: Helvetica;
   background: url("http://i.imgur.com/76zW7PT.jpg");
+  background-size: cover;
+
 }
 
 h1 { 
