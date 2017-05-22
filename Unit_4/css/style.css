@@ -1,9 +1,28 @@
 style.css
 
-body {
-  text-align: left;
-  color: #fff;
-  color: #FFFBEE;
-  font-family: Helvetica;
-  background: url("http://i.imgur.com/76zW7PT.jpg");
-  background-size: cover;
+
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+  
+ body {
+    background: url("http://i.imgur.com/76zW7PT.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace; sans-serif;
+    font-size: 24px;
+    margin: 2em;  
+} 
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2.25em;
+
+}
+
+h3, h4 { font-size: 1.5em;
+
+}
+
